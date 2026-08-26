@@ -4,7 +4,7 @@
 
 [访问官网](https://keydance.app/) · [在 Mac App Store 查看](https://apps.apple.com/cn/app/%E6%95%B2%E4%B8%80%E6%95%B2/id6797265723?mt=12) · [支持](https://keydance.app/support) · [隐私政策](https://keydance.app/privacy)
 
-![敲一敲键盘热力图示意](assets/keyboard-heat-real-v2-tight.webp)
+![敲一敲键盘热力图示意](keyboard-heat-real-v2-tight.webp)
 
 ## 敲一敲是什么
 
@@ -20,9 +20,9 @@
 - 今日与历史：在同一天事实的基础上查看摘要、统计和趋势。
 - 可选 Agent 聚合：在你主动连接支持的 Agent 后，查看日级编辑事实；不读取或保存原始会话。
 
-![敲一敲今日节奏示意](assets/today-rhythm-real-v4.webp)
+![敲一敲今日节奏示意](today-rhythm-real-v4.webp)
 
-![敲一敲屏幕热力示意](assets/screen-heat-real-v2-clean.webp)
+![敲一敲屏幕热力示意](screen-heat-real-v2-clean.webp)
 
 ## Input Monitoring 与隐私
 
