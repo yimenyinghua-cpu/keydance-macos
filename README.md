@@ -47,6 +47,7 @@ Secure Input 出现时，键盘、点击和光标聚合会暂停。全球排行�
 ## 获取 Keydance
 
 - [官网](https://keydance.app/)
+- [如何在 Mac 上统计按键次数和鼠标点击](https://keydance.app/mac-keyboard-mouse-counter.html)
 - [Mac App Store](https://apps.apple.com/cn/app/%E6%95%B2%E4%B8%80%E6%95%B2/id6797265723?mt=12)
 - [隐私政策](https://keydance.app/privacy)
 - [支持与帮助](https://keydance.app/support)
@@ -64,7 +65,11 @@ Secure Input 出现时，键盘、点击和光标聚合会暂停。全球排行�
 
 ### Keydance 会自动把数据上传到云端吗？
 
-本机核心记录默认留在 Mac 上。排行榜是独立的 opt-in 功能，只有你明确参加后才会上传最小日级聚合。
+本机核心记录默认留在 Mac 上。排行榜是独立的 opt-in 功能，只有你明确参加后才会上传固定的 13 字段日级输入汇总。
+
+### 7 天后还能免费统计吗？会自动扣费吗？
+
+新用户首次使用有一次本机 7 天完整体验，无需购买，到期不会自动扣费。到期后，本机继续统计；今天的键盘、点击、光标摘要和累计总数仍可免费查看。热力图、按日期回看和深入统计等功能由 Pro 解锁。Pro 有年付和一次买断，实际价格以所在地区的 Mac App Store 为准。
 
 ### 这是开源项目吗？
 
@@ -96,15 +101,20 @@ Keydance uses macOS Input Monitoring and a read-only `CGEventTap` to observe sys
 
 Core records, history, and statistics stay on your Mac by default. Keydance does not store or upload typed text, clipboard contents, screenshots, app or window details, URLs, file paths, raw key event sequences, raw cursor trails, Agent transcripts, accounts, passwords, or keys.
 
-When Secure Input is active, keyboard, click, and cursor aggregation pauses. The global leaderboard is a separate opt-in feature and does not affect local tracking when you do not join.
+When Secure Input is active, keyboard, click, and cursor aggregation pauses. The global leaderboard is optional. If you join, it receives a fixed 13-field daily input aggregate. Local tracking continues regardless of whether you join.
 
 ### Get Keydance
 
-- [Website](https://keydance.app/)
+- [Website](https://keydance.app/en/)
+- [How to count keystrokes and mouse clicks on Mac](https://keydance.app/en/mac-keyboard-mouse-counter.html)
 - [Mac App Store](https://apps.apple.com/cn/app/%E6%95%B2%E4%B8%80%E6%95%B2/id6797265723?mt=12)
-- [Privacy policy](https://keydance.app/privacy)
-- [Support](https://keydance.app/support)
-- [Global leaderboard](https://keydance.app/ranking/)
+- [Privacy policy](https://keydance.app/en/privacy.html)
+- [Support](https://keydance.app/en/support.html)
+- [Global leaderboard](https://keydance.app/en/ranking/)
+
+### What stays free after seven days? Will I be charged?
+
+New users get seven days of full access on first use, with no purchase required and no automatic charge at the end. Keydance keeps counting locally afterward, and today’s key, click, and pointer summaries and all-time totals remain free to view. Pro unlocks heatmaps, past-day views, and more detailed statistics. Pro is available as a yearly subscription or one-time purchase. See the Mac App Store for local pricing.
 
 ### Is Keydance open source?
 
