@@ -1,6 +1,6 @@
 # 敲一敲（Keydance）
 
-一个 macOS 本地输入活动仪表：把键盘动作、点击、光标移动和可选的 Agent 编辑事实整理成可回看的统计与热力图。
+敲一敲是 macOS 13 或更新版本的菜单栏键鼠统计工具。它统计每天的按键次数、鼠标点击和光标移动，不保存输入文字。常规统计默认保存在本机。
 
 [访问官网](https://keydance.app/) · [在 Mac App Store 查看](https://apps.apple.com/cn/app/%E6%95%B2%E4%B8%80%E6%95%B2/id6797265723?mt=12) · [支持](https://keydance.app/support) · [隐私政策](https://keydance.app/privacy)
 
@@ -11,6 +11,12 @@
 敲一敲（Keydance）是一款 macOS 本地输入活动仪表，常驻菜单栏，帮助你回看今天或历史日期中的键盘、点击和光标活动。
 
 它记录的是经过聚合的活动事实，不是你输入的内容。键盘动作不等于字数、产出或效率；光标移动是基于屏幕参数的投影距离估算。
+
+## 怎么开始统计
+
+1. 从 Mac App Store 下载并打开敲一敲。
+2. 前往「系统设置 → 隐私与安全性 → 输入监控」，授权敲一敲。
+3. 点击菜单栏中的敲一敲图标，查看当天的键盘动作、鼠标点击和光标移动。
 
 ## 核心能力
 
@@ -48,6 +54,8 @@ Secure Input 出现时，键盘、点击和光标聚合会暂停。全球排行�
 
 - [官网](https://keydance.app/)
 - [如何在 Mac 上统计按键次数和鼠标点击](https://keydance.app/mac-keyboard-mouse-counter.html)
+- [敲一敲和 WhatPulse 的区别](https://keydance.app/whatpulse/)
+- [如何查看 Claude Code 和 Codex 的本地编辑统计](https://keydance.app/ai-coding/)
 - [Mac App Store](https://apps.apple.com/cn/app/%E6%95%B2%E4%B8%80%E6%95%B2/id6797265723?mt=12)
 - [隐私政策](https://keydance.app/privacy)
 - [支持与帮助](https://keydance.app/support)
@@ -83,9 +91,15 @@ Secure Input 出现时，键盘、点击和光标聚合会暂停。全球排行�
 
 ### What is Keydance?
 
-Keydance is a local macOS keyboard and mouse activity tracker. It turns keyboard actions, clicks, cursor movement, and optional daily Agent editing aggregates into visual statistics you can review over time.
+Keydance is a menu bar app for macOS 13 or later that counts daily keystrokes, mouse clicks, and pointer movement. Core statistics stay on your Mac by default, and the app does not save typed text. You can review heatmaps and daily activity, plus local editing totals from supported agents you choose to connect.
 
 It measures aggregated activity, not what you type. Keyboard actions are not presented as word count, productivity, or value, and cursor movement is an estimated screen-projected distance.
+
+### Get started
+
+1. Install and open Keydance from the Mac App Store.
+2. In System Settings → Privacy & Security → Input Monitoring, allow Keydance.
+3. Open Keydance from the menu bar to see today’s keyboard actions, mouse clicks, and pointer movement.
 
 ### Core features
 
@@ -107,6 +121,8 @@ When Secure Input is active, keyboard, click, and cursor aggregation pauses. The
 
 - [Website](https://keydance.app/en/)
 - [How to count keystrokes and mouse clicks on Mac](https://keydance.app/en/mac-keyboard-mouse-counter.html)
+- [Keydance vs WhatPulse](https://keydance.app/en/whatpulse/)
+- [How to view local Claude Code and Codex editing statistics](https://keydance.app/en/ai-coding/)
 - [Mac App Store](https://apps.apple.com/cn/app/%E6%95%B2%E4%B8%80%E6%95%B2/id6797265723?mt=12)
 - [Privacy policy](https://keydance.app/en/privacy.html)
 - [Support](https://keydance.app/en/support.html)
