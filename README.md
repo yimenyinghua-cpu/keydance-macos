@@ -54,6 +54,8 @@ Secure Input 出现时，键盘、点击和光标聚合会暂停。全球排行�
 
 - [官网](https://keydance.app/)
 - [如何在 Mac 上统计按键次数和鼠标点击](https://keydance.app/mac-keyboard-mouse-counter.html)
+- [三款 Mac 键鼠计数工具怎么选](https://keydance.app/mac-keyboard-mouse-counter.html#compare-tools)
+- [媒体资料与产品截图](https://keydance.app/press/)
 - [敲一敲和 WhatPulse 的区别](https://keydance.app/whatpulse/)
 - [如何查看 Claude Code 和 Codex 的本地编辑统计](https://keydance.app/ai-coding/)
 - [Mac App Store](https://apps.apple.com/cn/app/%E6%95%B2%E4%B8%80%E6%95%B2/id6797265723?mt=12)
@@ -121,6 +123,8 @@ When Secure Input is active, keyboard, click, and cursor aggregation pauses. The
 
 - [Website](https://keydance.app/en/)
 - [How to count keystrokes and mouse clicks on Mac](https://keydance.app/en/mac-keyboard-mouse-counter.html)
+- [How to choose a Mac keyboard and mouse counter](https://keydance.app/en/mac-keyboard-mouse-counter.html#compare-tools)
+- [Press kit and product screenshots](https://keydance.app/en/press/)
 - [Keydance vs WhatPulse](https://keydance.app/en/whatpulse/)
 - [How to view local Claude Code and Codex editing statistics](https://keydance.app/en/ai-coding/)
 - [Mac App Store](https://apps.apple.com/cn/app/%E6%95%B2%E4%B8%80%E6%95%B2/id6797265723?mt=12)
